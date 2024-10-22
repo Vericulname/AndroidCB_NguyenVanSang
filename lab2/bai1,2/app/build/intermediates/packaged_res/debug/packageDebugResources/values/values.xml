@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple">#FF6200EE</color>
+    <color name="teal">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Animal Sound</string>
+    <string name="txt_loading">Loading</string>
+    <style name="Base.Theme.Bai1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Bai1" parent="Base.Theme.Bai1"/>
+    <style name="full_screen" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+</resources>

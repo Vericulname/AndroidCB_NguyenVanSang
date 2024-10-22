@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray_dark
+color gray_light
+color gray_mid
+color indigo
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bg_avatar
+drawable bg_oval
+drawable ic_email
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_phone
+drawable ic_star
+id main
+id phone
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string txt_email
+string txt_name
+string txt_phone1
+string txt_phone2
+string txt_title_mobile
+style Base.Theme.StaffProfile
+style Theme.StaffProfile
+xml backup_rules
+xml data_extraction_rules

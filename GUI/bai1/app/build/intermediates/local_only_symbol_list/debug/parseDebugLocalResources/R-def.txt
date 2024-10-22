@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btAdd
+id btDiv
+id btExit
+id btMul
+id btSub
+id btUC
+id editA
+id editB
+id main
+id txA
+id txB
+id txkq
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add
+string app_name
+string div
+string exit
+string kq
+string mul
+string sub
+string uc
+style Base.Theme.Bai1
+style Theme.Bai1
+xml backup_rules
+xml data_extraction_rules
